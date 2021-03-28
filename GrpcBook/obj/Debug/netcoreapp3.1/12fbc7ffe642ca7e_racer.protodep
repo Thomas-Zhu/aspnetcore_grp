@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Racer.cs \
+obj\Debug\netcoreapp3.1/RacerGrpc.cs: Protos/racer.proto
